@@ -38,7 +38,7 @@
     "jest": "^24.1.0",
     "propdoc": "^0.9.3",
     "push-dir": "^0.4.1",
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^17.2.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "ts-jest": "^24.0.0",
